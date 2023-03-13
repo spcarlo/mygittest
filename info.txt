@@ -34,6 +34,16 @@ xxx.text (specific file)
 *.txt  (all file types)
 
 
+Branches
+---------
+*master is the main branch 
+*creat a Branches
+git branch "name"
+*got to branch
+git checkout "name"
+
+
+
 
 
 
