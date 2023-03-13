@@ -41,6 +41,10 @@ Branches
 git branch "name"
 *got to branch
 git checkout "name"
+*merge branch to the master. from the master:
+git merge "name" -m "here type comment"
+
+
 
 
 
