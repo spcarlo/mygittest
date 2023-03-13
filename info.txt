@@ -1,0 +1,41 @@
+GIT COMMANDS
+
+right click on folder and select "Git bash here"$
+touch xxx.text or any other file type eg .ipynb
+
+initialize git repository
+git init
+
+Show status of the git repo
+git status
+
+stage file to repo
+git add "file" (eg xxx.txt)
+git add *.txt (all txt file added)
+git add . (all files added)
+
+commit staged files 
+git commit -m "here we can comment on what we have done"
+
+
+Files we dont whant to commit/stage
+---------------------------------
+
+creat a gitignore file
+touch .gitignore
+
+write the ones that should be ignored to the .gitignore file eg: 
+xxx.text (specific file)
+/folder (Folder)
+*.txt  (all file types)
+
+
+
+unstage file
+git rm --cached "file" (eg xxx.txt)
+
+
+
+
+
+
