@@ -45,6 +45,18 @@ git checkout "name"
 git merge "name" -m "here type comment"
 
 
+GitHub
+------
+*show all remote repo
+git remote
+*add repo to github (remote repo)
+git remote add origin https://github.com/spcarlo/mygittest.git
+git push -u origin master
+
+
+
+
+
 
 
 
