@@ -57,6 +57,7 @@ git push -u origin master
 *Clone a github repo
 * creat a folder, git bash from there
 git clone "https://github.com/xxxxxxxx"
+** here there is more to know ... "git" features are not cloned
 
 
 
